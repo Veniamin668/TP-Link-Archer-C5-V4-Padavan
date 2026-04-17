@@ -63,3 +63,4 @@
 - 📟 Оригинальная прошивка Padavan
 - 🔧 Padavan-NG от https://gitlab.com/hadzhioglu
 - 🛠️ Загрузчик BREED
+- ⚙️ Это форк оригинального репозитория!!
