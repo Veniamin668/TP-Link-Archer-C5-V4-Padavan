@@ -20,6 +20,7 @@
 - 💾 ZRAM и SFE (ускорение NAT)
 - 📡 XUPNPD медиасервер
 - 🛜 DNSCrypt прокси
+- 🔓 Разблокированы doh(dns over https) и dot(dns over tls)
 - 🔄 SFTP сервер
 - 🌍 EAP-TTLS/PEAP аутентификация
 - 🛠️ Поддержка скриптов LUA
