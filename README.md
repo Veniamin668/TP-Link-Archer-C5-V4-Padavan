@@ -18,7 +18,7 @@
 - 🔐 OpenVPN и EoIP туннели
 - 🛡️ HTTPS, SSL/TLS поддержка
 - 💾 ZRAM и SFE (ускорение NAT)
-- 📡 XUPNPD медиасервер
+- 📡 XUPNPD медиасервер(Только в LiTE сборке)
 - 🛜 DNSCrypt прокси
 - 🔄 SFTP сервер
 - 🌍 EAP-TTLS/PEAP аутентификация
@@ -64,3 +64,4 @@
 - 📟 Оригинальная прошивка Padavan
 - 🔧 Padavan-NG от https://gitlab.com/hadzhioglu
 - 🛠️ Загрузчик BREED
+-    Это форк с изменениями ввиду включенного zram везде и не только. все в конфигах прописано
