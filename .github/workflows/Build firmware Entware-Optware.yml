@@ -29,8 +29,13 @@ jobs:
     - name: Download sources and toolchain
       run: |
         git config --global --add safe.directory '*'
-        git clone -b "$PADAVAN_BRANCH" "$PADAVAN_REPO"
-        git -C padavan-ng checkout "$PADAVAN_COMMIT"
+        git config --global http.postBuffer 524288000
+        git config --global core.compression 0
+        git clone --depth 1 -b "$PADAVAN_BRANCH" "$PADAVAN_REPO"
+        cd padavan-ng
+        git fetch --depth 1 origin "$PADAVAN_COMMIT"
+        git checkout "$PADAVAN_COMMIT"
+        cd ..
         wget -qO- "$PADAVAN_TOOLCHAIN_URL" | tar -C padavan-ng --zstd -xf -
 
     - name: Install themes
