@@ -63,7 +63,7 @@ jobs:
       run: |
         FW_FILE_NAME="$(find padavan-ng/trunk/images -type f -regextype posix-extended -iregex ".*\.(trx|bin)$" \
                         -printf "%T@\t%f\n" | sort -V | tail -1 | cut -f2)"
-        cp "padavan-ng/trunk/images/$FW_FILE_NAME" .
+        cp -r "padavan-ng/trunk/images/$FW_FILE_NAME" .
         
         # Create 128KB empty file and recovery firmware
         dd if=/dev/zero of=128kempty.bin bs=128k count=1
