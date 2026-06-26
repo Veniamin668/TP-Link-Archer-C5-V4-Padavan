@@ -18,7 +18,6 @@
 - 🔐 OpenVPN и EoIP туннели
 - 🛡️ HTTPS, SSL/TLS поддержка
 - 💾 ZRAM и SFE (ускорение NAT)
-- 📡 XUPNPD медиасервер(Только в LiTE сборке)
 - 🛜 DNSCrypt прокси
 - 🔄 SFTP сервер
 - 🌍 EAP-TTLS/PEAP аутентификация
