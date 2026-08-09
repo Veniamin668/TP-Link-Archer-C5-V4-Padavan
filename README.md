@@ -1,3 +1,6 @@
+[![LITE Build Status](https://github.com/Veniamin668/TP-Link-Archer-C5-V4-Padavan/actions/workflows/Build firmware LITE.yml/badge.svg)](https://github.com/Veniamin668/TP-Link-Archer-C5-V4-Padavan/actions/workflows/Build firmware LITE.yml)
+
+[![Entware Build Status](https://github.com/ВАШ_ПОЛЬЗОВАТЕЛЬ/ИМЯ_РЕПОЗИТОРИЯ/actions/workflows/entware.yml/badge.svg)](https://github.com/ВАШ_ПОЛЬЗОВАТЕЛЬ/ИМЯ_РЕПОЗИТОРИЯ/actions/workflows/entware.yml)
 ## 💝 Поддержать разработку
 
 Если вам нравится прошивка, вы можете поддержать разработку:
