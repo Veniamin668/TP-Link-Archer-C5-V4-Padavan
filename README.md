@@ -1,5 +1,4 @@
 [![LITE Build Status](https://github.com/Veniamin668/TP-Link-Archer-C5-V4-Padavan/actions/workflows/Build-LITE.yml/badge.svg)](https://github.com/Veniamin668/TP-Link-Archer-C5-V4-Padavan/actions/workflows/Build-LITE.yml)
-
 [![Entware Build Status](https://github.com/Veniamin668/TP-Link-Archer-C5-V4-Padavan/actions/workflows/Build-Entware.yml/badge.svg)](https://github.com/Veniamin668/TP-Link-Archer-C5-V4-Padavan/actions/workflows/Build-Entware.yml)
 ## 💝 Поддержать разработку
 
