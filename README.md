@@ -1,11 +1,4 @@
-<p align="center">
-  <a href="https://github.com/Veniamin668/TP-Link-Archer-C5-V4-Padavan/actions/workflows/Build-LITE.yml">
-    <img src="https://img.shields.io/github/actions/workflow/status/Veniamin668/TP-Link-Archer-C5-V4-Padavan/Build-LITE.yml?branch=main&style=flat-square&logo=linux&logoColor=white&label=LITE%20Build&color=informational" alt="LITE Build">
-  </a>
-  <a href="https://github.com/Veniamin668/TP-Link-Archer-C5-V4-Padavan/actions/workflows/Build-Entware.yml">
-    <img src="https://img.shields.io/github/actions/workflow/status/Veniamin668/TP-Link-Archer-C5-V4-Padavan/Build-Entware.yml?branch=main&style=flat-square&logo=openwrt&logoColor=white&label=Entware%20Build&color=blueviolet" alt="Entware Build">
-  </a>
-</p>
+[![LITE Build](https://img.shields.io/github/actions/workflow/status/Veniamin668/TP-Link-Archer-C5-V4-Padavan/Build-LITE.yml?branch=main&style=flat-square&logo=linux&logoColor=white&label=LITE%20Build&color=informational)](https://github.com/Veniamin668/TP-Link-Archer-C5-V4-Padavan/actions/workflows/Build-LITE.yml) [![Entware Build](https://img.shields.io/github/actions/workflow/status/Veniamin668/TP-Link-Archer-C5-V4-Padavan/Build-Entware.yml?branch=main&style=flat-square&logo=openwrt&logoColor=white&label=Entware%20Build&color=blueviolet)](https://github.com/Veniamin668/TP-Link-Archer-C5-V4-Padavan/actions/workflows/Build-Entware.yml)
 ## 💝 Поддержать разработку
 
 Если вам нравится прошивка, вы можете поддержать разработку:
